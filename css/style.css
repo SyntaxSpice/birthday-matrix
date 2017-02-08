@@ -1,0 +1,23 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	height: 100%;
+	
+}
+
+body{
+	background-color: black;
+}
+canvas{
+	display: block;
+	position: absolute;
+}
+
+#text{
+	z-index: 9999;
+	position: relative;
+	margin: auto;
+	background-color: black;
+	top: 40%;
+}
