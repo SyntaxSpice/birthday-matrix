@@ -38,7 +38,7 @@ var page=0;
     "The Matrix has you",
     "And Middle-earth too..",
     "And Kharkiv...",
-    "Oh..how much things have u...",
+    "Oh..how many places have u...",
     "Oh..sorry..forgot..",
     "This day shake the world each year",
     "Of course u know why...",
