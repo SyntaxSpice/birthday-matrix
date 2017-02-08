@@ -34,32 +34,41 @@ var page=0;
     "",
     "",
     "",
-    "Wake up, Neo...",
+    "With vylupleniem, Nastya...",
     "The Matrix has you",
-    "Follow the white rabbit.",
-    "Knock, knock, Neo.",
-    "██████████████████████████████████",
-    "Original Idea: ",
-    "modified by VSDigital "
+    "And Middle-earth too..",
+    "And Kharkiv...",
+    "Oh..how much things have u...",
+    "Oh..sorry..forgot..",
+    "This day shake the world each year",
+    "Of course u know why...",
+    "Don't stop be so interesting and positive",
+	"System error! Reload the World!",
+    "██████████████████████████████████"
   );
 
   // ...cursor style... //
   var cursor = new Array(
-    "",
-    "█",
-    "",
-    "█",
-    "",
-    "█",
-    "",
-    "█",
-    "_",
-    "",
-    "\n",
-    "█",
-    "*Jack Rugile*",
-    "█"
-    
+  	"█",
+  	"",
+  	"█",
+  	"",
+  	"█",
+  	"",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█"
   );
 
 
