@@ -40,9 +40,16 @@ var page=0;
     "And Kharkiv...",
     "Oh..how many places have u...",
     "Oh..sorry..forgot..",
-    "This day shake the world each year",
+	"What if I told you",	  
+	"Сongratulations!",
+	"No matter which pill you took",
+	"May you life be emotionally full",
+	"And inexorably, Irrevocably..",
+	"Breathtakingly, Breathtakingly, Happy..",  
+    "This day shakes the world each year",
     "Of course u know why...",
     "Don't stop be so interesting and positive",
+	"So if you wa#@~&$4..Oops!",
 	"System error! Reload the World!",
     "██████████████████████████████████"
   );
@@ -67,6 +74,14 @@ var page=0;
   	"█",
   	"█",
   	"█",
+  	"█",
+	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+  	"█",
+	"█",
   	"█",
   	"█"
   );
